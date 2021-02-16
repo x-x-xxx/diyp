@@ -1,4 +1,4 @@
-### [返回首頁]（https://tvsee.github.io/diyp/）
+### [返回首頁](https://tvsee.github.io/diyp/)
 # DIYP影音经典版 强大且良心的盒子直播
 
 DIYP影音，这是一个盒子播放器，非常不错的盒子播放器，支持的解码类型非常多，基本上常见的都支持；
