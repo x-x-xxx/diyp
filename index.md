@@ -7,8 +7,8 @@
 ### 源文件連接列表
 
  
-- [在線直播源](https://tvsee.gethub.io/tvs/tv.txt)
-- [在線電影源](https://tvsee.gethub.io/tvs/mov.txt)
+- [在線直播源](http://tvsee.github.io/tvs/tv.txt)
+- [在線電影源](http://tvsee.github.io/tvs/mov.txt)
 
 1. 建立中
 2. 建立中
